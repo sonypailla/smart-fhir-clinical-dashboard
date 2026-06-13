@@ -1,0 +1,12 @@
+{
+  "resourceType": "Observation",
+  "id": "obs-001",
+  "status": "final",
+  "code": {
+    "text": "Heart Rate"
+  },
+  "valueQuantity": {
+    "value": 72,
+    "unit": "beats/min"
+  }
+}
