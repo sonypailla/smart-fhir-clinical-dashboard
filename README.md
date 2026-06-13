@@ -60,7 +60,6 @@ The application supports:
 This project explores healthcare interoperability standards and demonstrates how modern web technologies can improve clinician access to patient information while maintaining security and compliance requirements.
 
 ## Future Enhancements
-
 * Real SMART authorization server integration
 * Clinical decision support recommendations
 * Population health analytics
